@@ -1,3 +1,12 @@
-# dongyu-games
+# 冻羽游戏实验室
 
-Welcome to dongyu-games!
+2026年10月成立，第一个项目是“***Godot基础游戏样例集***”。
+
+### 主要成员
+* Snowy（开发）
+* 银燕（发行）
+
+### 兼职合作
+* Kott（程序）
+* 大虾片（美术）
+* Arcy Cadence（音乐）
